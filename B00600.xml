@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The good-fellowes advice: shewing what favour a man shall have while he hath meanes, but being in want, then all friendship ends. To the tune of, Vpon a summer time.</title>
+            <author>Records, Charles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00600</idno>
+            <idno type="STC">STC 20822</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[520]</idno>
+            <idno type="EEBO-CITATION">99884568</idno>
+            <idno type="PROQUEST">ocm99884568</idno>
+            <idno type="VID">183195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183195)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[279])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The good-fellowes advice: shewing what favour a man shall have while he hath meanes, but being in want, then all friendship ends. To the tune of, Vpon a summer time.</title>
+                  <author>Records, Charles.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright junior, dwelling at the upper end of the Old Baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1635?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Charles Records.</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "Farewell good company ..."</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183195:1"/>
+            <!-- PDF PAGE 3 -->
+            <head>The Good-fellowes Advice:</head>
+            <head type="sub">
+               <l>Shewing what favour a man ſhall have while he hath meanes,</l>
+               <l>But being in want, then all Friendſhip ends.</l>
+            </head>
+            <opener>To the tune of, <hi>Vpon a Summer time.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>FArewell good company,</l>
+                  <l>now I muſt leave you all:</l>
+                  <l>It hath bred my miſery,</l>
+                  <l>and brought me into thrall.</l>
+                  <l>But now I will refraine</l>
+                  <l>and drink ſtrong Ale no more,</l>
+                  <l>Ile ſeeke to purchaſe gaine,</l>
+                  <l>and quite forſake a Whore.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Good-fellowes great and ſmall,</hi>
+                     </l>
+                     <l>
+                        <hi>pray let met you adviſe,</hi>
+                     </l>
+                     <l>
+                        <hi>To have a care withall,</hi>
+                     </l>
+                     <l>
+                        <hi>'tis good to be merry and wiſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Now I have ſpent my meanes,</l>
+                  <l>and have no money to pay,</l>
+                  <l>I'm quite bereft of friends,</l>
+                  <l>which bréeds my ſad annoy:</l>
+                  <l>But while I had ſilver and gold</l>
+                  <l>to pay for them and me,</l>
+                  <l>Then many have me told</l>
+                  <l>I was brave company.</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But now they me deſpiſe,</l>
+                  <l>and aſke what make you here:</l>
+                  <l>Therefore Ile now grow wiſe,</l>
+                  <l>and will live void of feare:</l>
+                  <l>I can get money enough</l>
+                  <l>when I doe ſéeke for it,</l>
+                  <l>Wer't not for drink and ſnuffe,</l>
+                  <l>that robs of my wit.</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Strong drinke I will refuſe,</l>
+                  <l>for it hath done me wrong,</l>
+                  <l>It hath made me abuſe</l>
+                  <l>my ſelfe with hand and tongue,</l>
+                  <l>When I have béene in drinke</l>
+                  <l>I had no care at all,</l>
+                  <l>Nor did I ever thinke</l>
+                  <l>upon my owne downefall.</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I ſtill cri'd fill the Pot,</l>
+                  <l>whil'ſt all my mony was gone,</l>
+                  <l>And did pay many a ſhot</l>
+                  <l>for others as 'tis well knowne:</l>
+                  <l>And they gave me faire words,</l>
+                  <l>whil'ſt I could ſtill doe ſo:</l>
+                  <l>But now their tongs are ſwords,</l>
+                  <l>from whence envie doth flow.</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>My good will is repaid</l>
+                  <l>with envie, hate, and ſpite,</l>
+                  <l>Some of them ſnares have laid</l>
+                  <l>to take me with deceit,</l>
+                  <l>They laugh at my downefall,</l>
+                  <l>as plainely I doe prove,</l>
+                  <l>Scarce any of them all</l>
+                  <l>repay me any love.</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Had I knowne this before.</l>
+                  <l>while I had money and means,</l>
+                  <l>I had kept ſome in ſtore,</l>
+                  <l>but I was ſhallow braines.</l>
+                  <l>For which ſome call me Aſſe,</l>
+                  <l>to ſpend my meanes away:</l>
+                  <l>Now I may féed on graſſe,</l>
+                  <l>as fréely faſt and pray.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Good-fellowes, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The time hath béene that I</l>
+                  <l>could not have paſt by'th doores,</l>
+                  <l>But as I walked by</l>
+                  <l>ſuch company as rores.</l>
+                  <l>Would cauſe me to ſit downe,</l>
+                  <l>and welcome ſhould be made:</l>
+                  <l>But many times a crowne,</l>
+                  <l>for ſuch welcomes I pay'd.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Good-fellowes great and ſmall.</hi>
+                     </l>
+                     <l>
+                        <hi>pray let me you adviſe,</hi>
+                     </l>
+                     <l>
+                        <hi>To have a care withall,</hi>
+                     </l>
+                     <l>
+                        <hi>'tis good to be merry and wiſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:183195:1"/>
+               <!-- PDF PAGE 3 -->
+               <head>The ſecond part</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>TObacco, Ale, and Béere,</l>
+                  <l>for me was brought amaine,</l>
+                  <l>With Wine and dainty chéere,</l>
+                  <l>ſerv'd in with <hi>Venus</hi> traine.</l>
+                  <l>Looke what I wiſhed to have,</l>
+                  <l>they did fulfill my minde,</l>
+                  <l>Moſt dainty words they gave,</l>
+                  <l>which made me think them kind.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Good-fellowes great and ſmall,</hi>
+                     </l>
+                     <l>
+                        <hi>pray let me you adviſe,</hi>
+                     </l>
+                     <l>
+                        <hi>To have a care withall,</hi>
+                     </l>
+                     <l>
+                        <hi>'tis good to be merry and wiſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But now the proverbs true,</l>
+                  <l>'twas money was my friend,</l>
+                  <l>For having none I rue,</l>
+                  <l>there's none will give nor lend.</l>
+                  <l>They ſay the world is hard,</l>
+                  <l>and that I finde indéed,</l>
+                  <l>For none doe me regard,</l>
+                  <l>now I am in moſt need.</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>If I to'th Alehouſe goe,</l>
+                  <l>and call for Ale or Béere,</l>
+                  <l>My Hoſteſſe ſoone will know</l>
+                  <l>my ſtock for ſhe's in feare.</l>
+                  <l>If I call but two pots,</l>
+                  <l>and pay not preſently,</l>
+                  <l>Then quickly for her ſhots,</l>
+                  <l>ſhe will begin to cry.</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But I doe know her mind,</l>
+                  <l>'tis money ſhe would ſée,</l>
+                  <l>And then ſhe will prove kind,</l>
+                  <l>or elſe a Divell is ſhe.</l>
+                  <l>For thoſe that have no money</l>
+                  <l>ſhall be thruſt out of doores,</l>
+                  <l>For ſuch poore men as I</l>
+                  <l>ſhée'l not truſt on the ſcores.</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When I had money good ſtore,</l>
+                  <l>and had no néed at all,</l>
+                  <l>Then I might fréely ſcore,</l>
+                  <l>what-ever I did call.</l>
+                  <l>But now I am in want</l>
+                  <l>of Money, Bread, and Béere,</l>
+                  <l>At me ſh<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e'l loudly taunt,</l>
+                  <l>and aske, What make you here?</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Now I repent too late,</l>
+                  <l>I cannot call againe</l>
+                  <l>My money and eſtate,</l>
+                  <l>that I have ſpent in vaine:</l>
+                  <l>I muſt take an new courſe,</l>
+                  <l>and ſéeke to get ſome more,</l>
+                  <l>But yet ſometimes of force,</l>
+                  <l>my miſeries I deplore.</l>
+                  <l>
+                     <hi>Good-fellowes great, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Some wonder now at me,</l>
+                  <l>and ſay I am growne ſtrange,</l>
+                  <l>But they ſhall plainely ſée</l>
+                  <l>that I my life will change.</l>
+                  <l>For Ile not ſpend a peny</l>
+                  <l>amongſt the drunken crue,</l>
+                  <l>O I have ſpent too many,</l>
+                  <l>that makes me have ſo few.</l>
+                  <l>
+                     <hi>Good-fellowes, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Had I done ſo in time,</l>
+                  <l>I ne'r had knowne ſuch want,</l>
+                  <l>But I with each would joyne.</l>
+                  <l>there's nothing could me daunt.</l>
+                  <l>I never tooke no care</l>
+                  <l>what e're my friends did ſay:</l>
+                  <l>But what's fall'n to my ſhare,</l>
+                  <l>even griefe and ſad annoy.</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But now I will amend</l>
+                  <l>my lewd laſcivious life,</l>
+                  <l>For now I doe intend</l>
+                  <l>to be ruled by my Wife.</l>
+                  <l>O ſhe's a loving ſoule,</l>
+                  <l>as ever poore man had,</l>
+                  <l>For her the Bell did toule,</l>
+                  <l>and I vile knave was glad.</l>
+                  <lg type="refrain">
+                     <l>Good-fellowes, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But now ſhe's well againe,</l>
+                  <l>and will not die this fit,</l>
+                  <l>She ſhall have to maintaine</l>
+                  <l>her, all that I can get.</l>
+                  <l>To conclude, Ile take paines,</l>
+                  <l>next Munday Ile begin,</l>
+                  <l>This Song it appertaines</l>
+                  <l>to Women, and to Men.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Good-fellowes great and ſmall,</hi>
+                     </l>
+                     <l>
+                        <hi>pray let me you adviſe,</hi>
+                     </l>
+                     <l>
+                        <hi>To have a care withall,</hi>
+                     </l>
+                     <l>
+                        <hi>'tis good to be merry and wiſe.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <byline>By <hi>Charles Records.</hi>
+            </byline>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>J. Wright junior,</hi> dwelling at the upper end of the Old Baily.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
